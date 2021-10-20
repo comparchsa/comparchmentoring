@@ -203,7 +203,7 @@ YArch’s program committee three times.
 <div class="bio">
 
 <img class="headshot" src="/assets/img/saileshwar.jpg" alt="Gururaj Saileshwar's Potrait"/> 
-<a href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Ph.D. Student, Georgia Tech</a><br>
+<a href="https://gururaj-s.github.io/">Gururaj Saileshwar | Ph.D. Student, Georgia Tech</a><br>
 
 Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech,
 Atlanta, USA, advised by Prof. Moinuddin Qureshi. His research is at
