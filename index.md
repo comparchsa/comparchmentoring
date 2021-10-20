@@ -111,7 +111,7 @@ Muhammad Shahbaz is a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Profe
 <img class="headshot" src="/assets/img/sriraman.jpg" alt="Akshitha Sriraman's Potrait"/> 
 
 <a href="https://akshithasriraman.eecs.umich.edu">Akshitha Sriraman | Visiting Researcher, Google.</a><br>
-Assistant Professor, Carnegie Mellon University (2022)<br>
+<a href="https://akshithasriraman.eecs.umich.edu">Assistant Professor, Carnegie Mellon University (2022)</a><br>
 
 Akshitha Sriraman is a Visiting Researcher at Google in the Systems
 Research Group. She will start as an Assistant Professor in Electrical
