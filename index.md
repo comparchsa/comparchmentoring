@@ -203,7 +203,7 @@ YArch’s program committee three times.
 <div class="bio">
 
 <img class="headshot" src="/assets/img/saileshwar.jpg" alt="Gururaj Saileshwar's Potrait"/> 
-<a href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Ph.D. Student, Georgia Tech</a><br>
+<a href="https://gururaj-s.github.io/">Gururaj Saileshwar | Ph.D. Student, Georgia Tech</a><br>
 
 Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech,
 Atlanta, USA, advised by Prof. Moinuddin Qureshi. His research is at
@@ -299,7 +299,7 @@ researchers or professionals in computer architecture.
 
 # CALM Committee
 
-* **Committee members**: [Elba Garza](http://www.elbagarza.com/), [Udit Gupta](https://ugupta.com/), [Yueying Li](https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/en), [Suyash Mahar](https://suyashmahar.com), [Abdulrahman Mahmoud](https://ma3mool.github.io/), [Gururaj Saileshwar](https://sites.google.com/site/gururajshome/home), and [Annus Zulfiqar](https://pk.linkedin.com/in/annuszulfiqar)
+* **Committee members**: [Elba Garza](http://www.elbagarza.com/), [Udit Gupta](https://ugupta.com/), [Yueying Li](https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/en), [Suyash Mahar](https://suyashmahar.com), [Abdulrahman Mahmoud](https://ma3mool.github.io/), [Gururaj Saileshwar](https://gururaj-s.github.io/), and [Annus Zulfiqar](https://pk.linkedin.com/in/annuszulfiqar)
 * **Co-chairs**: [Sihang Liu](https://www.sihangliu.com/) and [Emily Ruppel](https://users.ece.cmu.edu/~eruppel/)
 
 
