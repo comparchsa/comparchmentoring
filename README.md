@@ -1,8 +1,8 @@
-# CASA : CALM website source
+# CASA:CALM website source
 
 This repository contains the source code for our CALM website. Build in Ruby and Jekyll, hosted on GitHub pages.
  
- This website uses [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) (parent-theme) as base-code, all the parts of the code belonging to the parent-theme obeys [parent-License](parent-LICENSE).
+ This website uses [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) (parent-theme) as base code, and all the parts of the code belonging to the parent-theme obey [parent-License](parent-LICENSE).
 
 Everything else belongs to CASA and its sponsors.
 
@@ -15,5 +15,6 @@ Saket
 
 ---
 
-CASA : []
-CALM : []
+CASA : [http://www.comparchsa.org/](http://www.comparchsa.org/)
+
+CALM : [http://www.comparchsa.org/comparchmentoring](http://www.comparchsa.org/comparchmentoring)
