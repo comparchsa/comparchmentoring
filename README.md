@@ -12,6 +12,8 @@ Everything else belongs to CASA and its sponsors.
 Saket
 (16-Aug-2023)
 
+## [Security Policy](SECURITY.md)
+_[Signature's GPG Public Key](https://saketupadhyay.com/pubkey.html)_
 
 ---
 
