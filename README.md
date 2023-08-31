@@ -1,4 +1,4 @@
-# CASA:CALM website source
+# CASA: CALM website source
 
 This repository contains the source code for our CALM website. Build in Ruby and Jekyll, hosted on GitHub pages.
  
@@ -20,3 +20,15 @@ _[Signature's GPG Public Key](https://saketupadhyay.com/pubkey.html)_
 CASA : [http://www.comparchsa.org/](http://www.comparchsa.org/)
 
 CALM : [http://www.comparchsa.org/comparchmentoring](http://www.comparchsa.org/comparchmentoring)
+
+
+| **Language** | **Files** | **Comment** | **Code** |
+|--------------|-----------|-------------|----------|
+| CSS          | 5         | 53          | 1340     |
+| HTML         | 16        | 8           | 910      |
+| YAML         | 3         | 98          | 478      |
+| JavaScript   | 2         | 14          | 161      |
+| Markdown     | 7         | 1           | 99       |
+| XML          | 4         | 0           | 94       |
+| Ruby         | 1         | 1           | 22       |
+| **_SUM:_**     | **_38_**        | **_175_**         | **_3104_**     |
