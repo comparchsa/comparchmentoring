@@ -1,6 +1,6 @@
 # CASA: NOT THE CALM website source
 
-Alenkruth (May 21, 2026): The Comparchmentoring site is currently being used. I do not know where this repository is pointing to. If I had access, I would have archives this.
+Alenkruth (May 21, 2026): The Comparchmentoring site is currently being used. I do not know where this repository is pointing to. If I had access, I would have archived this.
 
 This repository contains the source code for our CALM website. Build in Ruby and Jekyll, hosted on GitHub pages.
  
